@@ -1,1 +1,1 @@
-# Factory-load-control-with-a-graphical-user-interface
+# Factory-load-control-with-a-GUI
